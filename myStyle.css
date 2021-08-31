@@ -2,6 +2,8 @@ h1
 {
 	color:#5f2d2e;
 	text-align: center;
+	border-bottom: 5px solid #5f2d2e;
+	text-shadow: 2px 2px white;
 }
 
 h2
@@ -18,4 +20,5 @@ body
 {
 	color: white;
 	background-color: grey;
+	border-bottom: 5px solid #5f2d2e;
 }
