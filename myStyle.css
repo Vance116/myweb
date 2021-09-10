@@ -4,11 +4,17 @@ h1
 	text-align: center;
 	border-bottom: 5px solid #5f2d2e;
 	text-shadow: 2px 2px white;
+	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
+	font-size: 3em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	text-indent
 }
 
 h2
 {
 	color:#5f2d2e;
+	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
 }
 
 a
@@ -21,4 +27,9 @@ body
 	color: white;
 	background-color: grey;
 	border-bottom: 5px solid #5f2d2e;
+}
+
+p
+{
+	font: normal normal 1.2em Arial, Helvetica, sans-serif; 
 }
