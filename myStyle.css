@@ -1,8 +1,8 @@
 h1
 {
-	color:#5f2d2e;
+	color:#3D3E3F;
 	text-align: center;
-	border-bottom: 5px solid #5f2d2e;
+	border-bottom: 5px solid #071B2D;
 	text-shadow: 2px 2px white;
 	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
 	font-size: 3em;
@@ -13,7 +13,7 @@ h1
 
 h2
 {
-	color:#5f2d2e;
+	color:#B6B4AE;
 	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
 }
 
@@ -24,12 +24,13 @@ a
 
 body
 {
-	color: white;
-	background-color: grey;
-	border-bottom: 5px solid #5f2d2e;
+	color: 3D3E3F;
+	background-color: 3D3E3F;
+	border-bottom: 5px solid #071B2D;
 }
 
 p
 {
 	font: normal normal 1.2em Arial, Helvetica, sans-serif; 
+
 }
