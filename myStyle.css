@@ -19,7 +19,7 @@ h2
 
 a
 {
-	color:red;
+	color: red;
 }
 
 body
@@ -29,8 +29,48 @@ body
 	border-bottom: 5px solid #071B2D;
 }
 
-p
+p 
 {
 	font: normal normal 1.2em Arial, Helvetica, sans-serif; 
+}
 
+p em 
+{
+	color: firebrick;
+}
+
+img
+{
+	vertical-align: middle;
+}
+
+ul
+{
+	list-style-type: circle;
+	list-style-position: outside;
+}
+
+nav
+{
+	background-color: #071B2D;
+	line-height:20px;
+	text-align:center;
+}
+
+nav li
+{
+	display: inline;
+	padding-right: 40px;
+}
+
+nav a 
+{
+	color:white;
+	text-decoration: none;
+}
+
+nav a:hover
+{
+	color:red;
+	text-decoration:underline;
 }
