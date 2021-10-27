@@ -2,19 +2,21 @@ h1
 {
 	color:#3D3E3F;
 	text-align: center;
-	border-bottom: 5px solid #071B2D;
+	border-bottom: 5px double #071B2D;
 	text-shadow: 2px 2px white;
 	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
 	font-size: 3em;
 	text-transform: uppercase;
 	letter-spacing: .1em;
-	text-indent
+	padding: 10px;
 }
 
 h2
 {
 	color:#071B2D;
 	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 
 a
@@ -24,14 +26,18 @@ a
 
 body
 {
-	color: 3D3E3F;
+	color: #3D3E3F;
 	background-color: 3D3E3F;
 	border-bottom: 5px solid #071B2D;
+	background-image: url(images/whitecararaslab01.jpg);
+	padding-bottom: 15px;
 }
 
 p 
 {
 	font: normal normal 1.2em Arial, Helvetica, sans-serif; 
+	padding: 13px;
+	margin: 5px;
 }
 
 p em 
@@ -42,6 +48,7 @@ p em
 img
 {
 	vertical-align: middle;
+	border: 3px solid #071B2D;
 }
 
 ul
@@ -73,4 +80,9 @@ nav a:hover
 {
 	color:red;
 	text-decoration:underline;
+}
+
+iframe
+{
+	border: 3px solid #071B2D;
 }
